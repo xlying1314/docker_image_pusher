@@ -1,1 +1,1 @@
-minio/minio
+mysql:8.0.31
