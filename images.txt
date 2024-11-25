@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+rabbitmq:3.13-management
